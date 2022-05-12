@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timeach
-- 👀 I’m interested in Frontend Developer
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React
 
 
