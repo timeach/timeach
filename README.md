@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timeach
-- 👀 I’m interested in Frontend Development
-- 🌱 I’m currently focus on React and Redux with TypeScript
+- 👀 I’m interested in React and C#, ASP.NET Core.
+- 🌱 I’m currently focus on architecing software solutions using microservices, DevOps and design patterns for Azure.
 
 
 <!---
